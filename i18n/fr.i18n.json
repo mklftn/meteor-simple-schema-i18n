@@ -62,7 +62,7 @@
           "exp": "SimpleSchema.RegEx.Id",
           "msg": "Le champ [label] doit être un identifiant alphanumérique valide"
         }
-      }
+      },
       "competenceAlreadyInDB": "La compétence existe déjà"
     }
   }
